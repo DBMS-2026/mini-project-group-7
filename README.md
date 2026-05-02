@@ -1,1 +1,1 @@
-# mini-project-group-7
+# matsya-ai
